@@ -14,7 +14,6 @@ aHR0cHM6Ly9naXN0LmdpdGh1Yi5jb20vZ2FydmswNy9iYTQwNjQ2MGYyZTkzMmI1NDk2Y2EyNTk3N2Jl
 ```
 this pretty much looks like some encoded string, but you can comletely ignore it and just visit the profile, and there you find all 4 checkpoints
 
-
 at the final stage you get this
 ```
 You've reached the end of the trail. Your reward:
