@@ -1,5 +1,12 @@
 ## Half Awake
-literally learned a new software
+literally learned a new software  
+
+Problem
+```
+Our SOC captured suspicious traffic from a lab VM right before dawn. Most packets look like ordinary client chatter, but a few are pretending to be something they are not.
+```
+
+First open the pcap file with wireshark  
 
 ON following the very first tcp stream , you get something like this
 ```
