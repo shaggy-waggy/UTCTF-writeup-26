@@ -13,8 +13,12 @@ You've found the first breadcrumb. The next step is closer than you think.
 aHR0cHM6Ly9naXN0LmdpdGh1Yi5jb20vZ2FydmswNy9iYTQwNjQ2MGYyZTkzMmI1NDk2Y2EyNTk3N2JlMjViZQ==
 ```
 this pretty much looks like some encoded string, but you can comletely ignore it and just visit the profile, and there you find all 4 checkpoints
+<img width="1246" height="792" alt="Screenshot 2026-03-20 at 13 34 06" src="https://github.com/user-attachments/assets/6e46743e-a9cf-490b-9ec4-0eeedbd8b97e" />
+
 
 at the final stage you get this
+
+
 ```
 You've reached the end of the trail. Your reward:
   hgsynt{s0yy0j1at_gu3_pe4jy_ge41y}
