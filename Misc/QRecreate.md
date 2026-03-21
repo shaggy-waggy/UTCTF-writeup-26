@@ -10,6 +10,7 @@ Now on downloading the folder you can find 100 folder inside it, and inside each
 The 100 folder names contained a common pattern, it was formatted as "MD__", the first blank had the following possibilities, {A,c,E,g,I,k,M,Q,U,Y}, and the second blank had possibilities, {0,1,2,3,4,5,w,x,y,z}, but there was an exception, MTAw, from this i got the hint,
 
 It was base 64 encoding, meaning 100, and every other folder was also numbered from 1-100, then arranging them row wise using a python script you can get a qr code
+<img width="740" height="740" alt="reconstructed_qr" src="https://github.com/user-attachments/assets/2a0c64ae-f7b5-4e50-b81e-6815919e3c2b" />
 
 on scanning the qr code, it can be converted into this text
 ```
